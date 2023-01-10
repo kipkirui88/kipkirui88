@@ -1,3 +1,4 @@
+![IMG-20211015-WA0004](https://user-images.githubusercontent.com/106087508/211566237-010dd66e-9495-4e0b-a370-91f9dc87b72e.jpg)
 - 👋 Hi, I’m @kipkirui88
 - 👀 I’m interested in WEB DEVELPMENT 
 - 🌱 I’m currently learning APIs 
